@@ -1,4 +1,4 @@
-Click here to view demo (https://welcome-to-tanjore-degree-coffee.netlify.app/)
+Click here to View Demo (https://welcome-to-tanjore-degree-coffee.netlify.app/)
 
 # React + Vite
 
